@@ -7,13 +7,13 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div>
-					<h1>Uniplus Service</h1>
+					<h1>Uniplus Store</h1>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<ul>
 					<li>
-						Uniplus Service
+						Uniplus Store
 					</li>
 					<li class="active">
 						<a href="index.php">Início</a>
@@ -29,16 +29,15 @@
 <div class="container">
 	<div class="serviceSolucao">
 		<div class="text-center">
-			<h3 class="font-weight-bold">Solução para Prestadores de Serviço,<br>
-			Assistências Técnicas e Oficinas Mecânicas</h3>
-			<p class="text-monospace">Trabalhar com prestação de serviços, seja em qualquer setor ou escala, é diferente de trabalhar em qualquer outra área, requer muita organização e saber usar corretamente as informações à sua disposição. Pensando nisso, desenvolvemos o UNIPLUS Service: um sistema de gestão completo para facilitar e melhorar o atendimento de assistências técnicas, oficinas mecânicas e prestadores de serviço em geral.</p>
+			<h3 class="font-weight-bold">Solução para Lojas de Varejo em Geral</h3>
+			<p class="text-monospace">Sabendo que quem tem loja no varejo, seja grande ou pequena, precisa se preocupar e cuidar de uma infinidade de detalhes no dia a dia da administração da sua empresa, desenvolvemos o UNIPLUS Store, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em lojas de roupas, calçados, livrarias, papelarias, entre outros tipos de lojas.</p>
 		</div>
 	</div>
 </div>
-<div class="imgService1">
+<div class="imgVarejo">
 	<div class="container">
 		<div class="embed-responsive embed-responsive-4by3">
-			<iframe src="https://www.youtube.com/embed/zXWQPDZlHOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  			<iframe width="560" height="315" src="https://www.youtube.com/embed/toRUDM5ZI1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
@@ -50,14 +49,14 @@
 		<div class="row">
     		<div class="col">
     			<div class="text-center">
-      				<img src="img/uniplusOS.png">
-      				<p class="text-monospace">Gestão de Ordem de Serviço</p>
+      				<img src="img/grade.png">
+      				<p class="text-monospace">Cadastro de Grade</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
-      				<img src="img/uniplushelpDesk.png">
-      				<p class="text-monospace">Help Desk</p>
+      				<img src="img/fidelidade.png">
+      				<p class="text-monospace">Cartão Fidelidade</p>
       			</div>
     		</div>
     		<div class="col">
@@ -68,20 +67,20 @@
     		</div>
     		<div class="col">
       			<div class="text-center">
-      				<img src="img/uniplusnotaFiscal.png">
-      				<p class="text-monospace">Nota Fiscal de Serviço</p>
+      				<img src="img/estoque.png">
+      				<p class="text-monospace">Local de Estoque</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
-      				<img src="img/uniplusBI.png">
-      				<p class="text-monospace">Business Inteligence</p>
+      				<img src="img/os.png">
+      				<p class="text-monospace">Ordem de Serviço</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
-      				<img src="img/uniplusdashBoard.png">
-      				<p class="text-monospace">Dashboard de Gestão</p>
+      				<img src="img/tabelapreco.png">
+      				<p class="text-monospace">Tabela de Preço</p>
       			</div>
     		</div>
   		</div>
@@ -97,7 +96,7 @@
 	<div class="row">
 		<div class="col-sm-4 offset-sm-2">
 			<div class="card" style="width: 20rem;">
-		  		<img class="card-img-top" src="img/uniplusService.png" alt="Card image cap">
+		  		<img class="card-img-top" src="img/store.png" alt="Card image cap">
 		  	<div class="card-body">
 		  		<ul class="list-group list-group-flush">
 		    	<h5 class="text-center card-title font-weight-bold">Básico</h5>
@@ -109,9 +108,9 @@
 			    	<li class="list-group-item"><i class="far fa-check-square"> Estoque</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Financeiro</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Grade</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Locais de Estoque</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Modelos de Impressão</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Nota Fiscal Eletrônica</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Ordem de Serviço</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Ponto de Venda</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Produtos</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Relatórios</i></li>
@@ -125,7 +124,7 @@
 		</div>
 		<div class="col-sm-6">
 			<div class="card" style="width: 20rem;">
-		  		<img class="card-img-top" src="img/uniplusService.png" alt="Card image cap">
+		  		<img class="card-img-top" src="img/store.png" alt="Card image cap">
 		  	<div class="card-body">
 		  		<ul class="list-group list-group-flush">
 		    	<h5 class="text-center card-title font-weight-bold">Avançado</h5>
@@ -137,21 +136,24 @@
 			    	<li class="list-group-item"><i class="far fa-check-square"> Estoque</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Financeiro</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Grade</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Locais de Estoque</i></li>			    	
 			    	<li class="list-group-item"><i class="far fa-check-square"> Modelos de Impressão</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Nota Fiscal Eletrônica</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Ordem de Serviço</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Ponto de Venda</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Produtos</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Relatórios</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> SINTEGRA</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> SPED Fiscal</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Vendas</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Cartão Fidelidade</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Centro de Custo</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Controle de Lote de Fabricação e Validade</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Dashboard de Gestão</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> DRE</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> EDI - Coletor de Dados</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Estoque de Terceiros</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Help Desk</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Nota Fiscal de Serviço</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Expedição</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Inventário de Estoque</i></li>
+			    	<li class="list-group-item"><i class="far fa-check-square"> Ordem de Serviço</i></li>
 			    	<li class="list-group-item"><i class="far fa-check-square"> Tabela de Preços</i></li>
 			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>

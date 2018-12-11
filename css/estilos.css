@@ -7,7 +7,7 @@
 	background-image: url(../img/darkBI.jpeg);
 	margin-top: 60px;
 	color: #FFFFFF;
-	height: 200px;
+	height: 350px;
 	opacity: 2.0;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -15,7 +15,7 @@
 }
 
 .clienteshome{
-	margin-top: 60px;
+	margin-top: 150px;
 	color: #000000;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .contato-footer{
-	margin-top: 150px;
+	margin-top: 200px;
 	color: #FFFFFF;
 	background: #000000;
 }
@@ -109,4 +109,63 @@
 .serviceSolucao2{
 	margin-top: 65px;
 	margin-bottom: 45px;
+}
+.marketSolucao{
+	margin-top: 65px;
+}
+.imgMarket{
+	background-image: url(../img/intelidata2.png);
+	width: 1287px;
+	height: 450px;
+	margin-top: 65px;
+}
+.imgMarket iframe{
+	margin-top: 65px;
+	width: 560px;
+	height: 315px;
+}
+.imgVarejo{
+	background-image: url(../img/varejo.png);
+	width: 1287px;
+	height: 450px;
+	margin-top: 65px;
+}
+.imgVarejo iframe{
+	margin-top: 65px;
+	width: 560px;
+	height: 315px;
+}
+.imgGourmet{
+	background-image: url(../img/gourmet.jpg);
+	width: 1287px;
+	height: 450px;
+	margin-top: 65px;
+}
+.imgGourmet iframe{
+	margin-top: 65px;
+	width: 560px;
+	height: 315px;
+}
+.imgUniplus{
+	background-image: url(../img/uniplus.jpg);
+	width: 1287px;
+	height: 450px;
+	margin-top: 65px;
+}
+.imgUniplus iframe{
+	margin-top: 65px;
+	width: 560px;
+	height: 315px;
+}
+.contato{
+	margin-top: 80px;
+}
+.contatoCard{
+	margin-left: 150px;
+	margin-top: 80px;
+}
+.mapa{
+	margin-top: 60px;
+	padding-top: 35px;
+	text-align: right;
 }

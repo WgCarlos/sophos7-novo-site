@@ -17,21 +17,18 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Soluções</a>
                         <div class="dropdown-menu">
                         <a class="dropdown-item" href="service.php">Prestadores de Serviço</a>
-                        <a class="dropdown-item" href="market.php">Market</a>
-                        <a class="dropdown-item" href="#">Store</a>
-                        <a class="dropdown-item" href="#">Gourmet</a>
+                        <a class="dropdown-item" href="market.php">Supermercados</a>
+                        <a class="dropdown-item" href="store.php">Lojas de Varejo</a>
+                        <a class="dropdown-item" href="gourmet.php">Bares e Restaurantes</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Service</a>
+                        <a class="dropdown-item" href="uniplus.php">Outros Segmentos</a>
                         </div>
                     </li>
     		  		<li class="nav-item">
-    		    		<a class="nav-link" href="#">Campanha</a>
+    		    		<a class="nav-link" href="campanha.php">Campanha</a>
     		  		</li>
     		  		<li class="nav-item">
-    		    		<a class="nav-link" href="#">Eventos</a>
-    		  		</li>
-    		  		<li class="nav-item">
-    		    		<a class="nav-link disabled" href="#contato">Contato</a>
+    		    		<a class="nav-link disabled" href="contato.php">Contato</a>
     		  		</li>
     			</ul>
   			</div>
