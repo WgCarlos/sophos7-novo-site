@@ -9,6 +9,8 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 	<!--Css local-->
 	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<!--Hover Css-->
+	<link href="css/hover.css" rel="stylesheet" media="all">
 	
 	<title>Sophos7 Gestão Inteligente</title>
 </head>

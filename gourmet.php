@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div>
-					<h1>Uniplus Gourmet</h1>
+					<h1>Bares e Restaurantes</h1>
 				</div>
 			</div>
 			<div class="col-sm-6">
@@ -24,13 +24,13 @@
 	</div>
 </div>
 <div class="imgService">
-	<img src="img/itnelidata1.jpg" class="img-fluid">
+	<img src="img/uniplusGourmet.jpg" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
 		<div class="text-center">
 			<h3 class="font-weight-bold">Solução para Bares e Restaurantes</h3>
-			<p class="text-monospace">Sabendo que trabalhar com empresas no segmento gastronômico é um desafio diário diferente de qualquer outro trabalho, exigindo um nível alto de organização e atenção aos mínimos detalhes, desenvolvemos o UNIPLUS Gourmet, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em bares, restaurantes, lanchonetes e demais estabelecimentos.</p>
+			<p class="">Sabendo que trabalhar com empresas no segmento gastronômico é um desafio diário diferente de qualquer outro trabalho, exigindo um nível alto de organização e atenção aos mínimos detalhes, desenvolvemos o UNIPLUS Gourmet, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em bares, restaurantes, lanchonetes e demais estabelecimentos.</p>
 		</div>
 	</div>
 </div>
@@ -50,43 +50,43 @@
     		<div class="col">
     			<div class="text-center">
       				<img src="img/comanda.png">
-      				<p class="text-monospace">Comanda Eletrônica para Android</p>
+      				<p class="">Comanda Eletrônica para Android</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/delivery.png">
-      				<p class="text-monospace">Delivery</p>
+      				<p class="">Delivery</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/drive.png">
-      				<p class="text-monospace">Drive Thru</p>
+      				<p class="">Drive Thru</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/catraca.png">
-      				<p class="text-monospace">Integração com Catracas</p>
+      				<p class="">Integração com Catracas</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/producao.png">
-      				<p class="text-monospace">Monitoramento de Fila de Produção</p>
+      				<p class="">Monitoramento de Fila de Produção</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/reserva.png">
-      				<p class="text-monospace">Reservas de Mesas</p>
+      				<p class="">Reservas de Mesas</p>
       			</div>
     		</div>
   		</div>
 	</div>
 	<div class="headerService1">
-			<p class="text-center text-monospace">O UNIPLUS Gourmet faz com que as operações do seu negócio sejam automatizadas, assim o controle interno é aperfeiçoado e o atendimento ao cliente se torna mais ágil. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis. </p>
+			<p class="text-center ">O UNIPLUS Gourmet faz com que as operações do seu negócio sejam automatizadas, assim o controle interno é aperfeiçoado e o atendimento ao cliente se torna mais ágil. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis. </p>
 	</div>
 </div>
 <div class="container">

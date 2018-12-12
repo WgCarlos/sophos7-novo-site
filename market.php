@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div>
-					<h1>Uniplus Market</h1>
+					<h1>Supermercados</h1>
 				</div>
 			</div>
 			<div class="col-sm-6">
@@ -24,14 +24,14 @@
 	</div>
 </div>
 <div class="imgService">
-	<img src="img/itnelidata1.jpg" class="img-fluid">
+	<img src="img/uniplusMarket.jpg" class="img-fluid">
 </div>
 <div class="container">
 	<div class="marketSolucao">
 		<div class="text-center">
 			<h3 class="font-weight-bold">Solução para Mercados<br>
 				Supermercados e Açougues</h3>
-			<p class="text-monospace">Quem trabalha todos os dias na gestão de mercados ou outras empresas deste segmento tem pouco espaço para errar no controle de cada processo, já que cada detalhe faz diferença no seu sucesso frente à concorrência. Por isso, desenvolvemos o UNIPLUS Market, um sistema de gestão completo para facilitar e melhorar os processos em mercados, supermercados, açougues e demais estabelecimentos do setor.</p>
+			<p class="">Quem trabalha todos os dias na gestão de mercados ou outras empresas deste segmento tem pouco espaço para errar no controle de cada processo, já que cada detalhe faz diferença no seu sucesso frente à concorrência. Por isso, desenvolvemos o UNIPLUS Market, um sistema de gestão completo para facilitar e melhorar os processos em mercados, supermercados, açougues e demais estabelecimentos do setor.</p>
 		</div>
 	</div>
 </div>
@@ -51,37 +51,37 @@
     		<div class="col">
     			<div class="text-center">
       				<img src="img/reclassificacao.png">
-      				<p class="text-monospace">Reclassificação para Açougues</p>
+      				<p class="">Reclassificação para Açougues</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/fidelidade.png">
-      				<p class="text-monospace">Cartão Fidelidade</p>
+      				<p class="">Cartão Fidelidade</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/horti.png">
-      				<p class="text-monospace">Controle de Perda (Hortifruti)</p>
+      				<p class="">Controle de Perda (Hortifruti)</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/cotacao.png">
-      				<p class="text-monospace">Cotação de Compra</p>
+      				<p class="">Cotação de Compra</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/expedicao.png">
-      				<p class="text-monospace">Expedição</p>
+      				<p class="">Expedição</p>
       			</div>
     		</div>
   		</div>
 	</div>
 	<div class="headerService1">
-			<p class="text-center text-monospace">O UNIPLUS Market fornece uma visão completa das operações da sua empresa, tornando os processos mais rápidos e fáceis de serem realizados. Assim, o controle interno é aperfeiçoado e o atendimento ao cliente se torna mais ágil. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
+			<p class="text-center ">O UNIPLUS Market fornece uma visão completa das operações da sua empresa, tornando os processos mais rápidos e fáceis de serem realizados. Assim, o controle interno é aperfeiçoado e o atendimento ao cliente se torna mais ágil. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
 	</div>
 </div>
 <div class="container">

@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div>
-					<h1>Uniplus Service</h1>
+					<h1>Prestadores de Serviços</h1>
 				</div>
 			</div>
 			<div class="col-sm-6">
@@ -24,14 +24,14 @@
 	</div>
 </div>
 <div class="imgService">
-	<img src="img/itnelidata1.jpg" class="img-fluid">
+	<img src="img/uniplusService.jpg" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
 		<div class="text-center">
 			<h3 class="font-weight-bold">Solução para Prestadores de Serviço,<br>
 			Assistências Técnicas e Oficinas Mecânicas</h3>
-			<p class="text-monospace">Trabalhar com prestação de serviços, seja em qualquer setor ou escala, é diferente de trabalhar em qualquer outra área, requer muita organização e saber usar corretamente as informações à sua disposição. Pensando nisso, desenvolvemos o UNIPLUS Service: um sistema de gestão completo para facilitar e melhorar o atendimento de assistências técnicas, oficinas mecânicas e prestadores de serviço em geral.</p>
+			<p class="">Trabalhar com prestação de serviços, seja em qualquer setor ou escala, é diferente de trabalhar em qualquer outra área, requer muita organização e saber usar corretamente as informações à sua disposição. Pensando nisso, desenvolvemos o UNIPLUS Service: um sistema de gestão completo para facilitar e melhorar o atendimento de assistências técnicas, oficinas mecânicas e prestadores de serviço em geral.</p>
 		</div>
 	</div>
 </div>
@@ -51,43 +51,43 @@
     		<div class="col">
     			<div class="text-center">
       				<img src="img/uniplusOS.png">
-      				<p class="text-monospace">Gestão de Ordem de Serviço</p>
+      				<p class="">Gestão de Ordem de Serviço</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/uniplushelpDesk.png">
-      				<p class="text-monospace">Help Desk</p>
+      				<p class="">Help Desk</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/uniplusSms.png">
-      				<p class="text-monospace">SMS</p>
+      				<p class="">SMS</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/uniplusnotaFiscal.png">
-      				<p class="text-monospace">Nota Fiscal de Serviço</p>
+      				<p class="">Nota Fiscal de Serviço</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/uniplusBI.png">
-      				<p class="text-monospace">Business Inteligence</p>
+      				<p class="">Business Inteligence</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/uniplusdashBoard.png">
-      				<p class="text-monospace">Dashboard de Gestão</p>
+      				<p class="">Dashboard de Gestão</p>
       			</div>
     		</div>
   		</div>
 	</div>
 	<div class="headerService1">
-			<p class="text-center text-monospace">O UNIPLUS Service faz você ganhar total controle dos processos da sua empresa de maneira ágil e eficiente. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
+			<p class="text-center ">O UNIPLUS Service faz você ganhar total controle dos processos da sua empresa de maneira ágil e eficiente. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
 	</div>
 </div>
 <div class="container">

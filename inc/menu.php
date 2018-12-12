@@ -25,9 +25,6 @@
                         </div>
                     </li>
     		  		<li class="nav-item">
-    		    		<a class="nav-link" href="campanha.php">Campanha</a>
-    		  		</li>
-    		  		<li class="nav-item">
     		    		<a class="nav-link disabled" href="contato.php">Contato</a>
     		  		</li>
     			</ul>

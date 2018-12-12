@@ -34,7 +34,7 @@
 						</div>
 						<div>
 							<p><strong>Envie-nos um e-mail</strong></p>
-							<p><strong>comercial@sophosne.com</strong></p>
+							<p><strong>relacionamento@sophosne.com.br</strong></p>
 						</div>
 					</div>
 				</div>

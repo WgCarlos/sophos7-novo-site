@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div>
-					<h1>Uniplus</h1>
+					<h1>Outros Segmentos</h1>
 				</div>
 			</div>
 			<div class="col-sm-6">
@@ -24,13 +24,13 @@
 	</div>
 </div>
 <div class="imgService">
-	<img src="img/itnelidata1.jpg" class="img-fluid">
+	<img src="img/uniplusOutros.jpg" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
 		<div class="text-center">
 			<h3 class="font-weight-bold">Solução completa para seu negócio</h3>
-			<p class="text-monospace">Administrar uma empresa não é uma tarefa fácil, são muitos os detalhes com os quais se preocupar. Pensando nisso, desenvolvemos o UNIPLUS, um sistema de gestão que se adapta às necessidades da sua empresa. Gestão simples que facilita os processos colocando em suas mãos o total controle do seu negócio.</p>
+			<p class="">Administrar uma empresa não é uma tarefa fácil, são muitos os detalhes com os quais se preocupar. Pensando nisso, desenvolvemos o UNIPLUS, um sistema de gestão que se adapta às necessidades da sua empresa. Gestão simples que facilita os processos colocando em suas mãos o total controle do seu negócio.</p>
 		</div>
 	</div>
 </div>
@@ -50,43 +50,43 @@
     		<div class="col">
     			<div class="text-center">
       				<img src="img/uniplusnotaFiscal.png">
-      				<p class="text-monospace">Nota Fiscal</p>
+      				<p class="">Nota Fiscal</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/controle.png">
-      				<p class="text-monospace">Controle Financeiro</p>
+      				<p class="">Controle Financeiro</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/pedido.png">
-      				<p class="text-monospace">Pedido de Faturamento</p>
+      				<p class="">Pedido de Faturamento</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/grade1.png">
-      				<p class="text-monospace">Grade</p>
+      				<p class="">Grade</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/fichaproducao.png">
-      				<p class="text-monospace">Ficha de  Produção</p>
+      				<p class="">Ficha de  Produção</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/os1.png">
-      				<p class="text-monospace">Ordem de Serviço</p>
+      				<p class="">Ordem de Serviço</p>
       			</div>
     		</div>
   		</div>
 	</div>
 	<div class="headerService1">
-			<p class="text-center text-monospace">O UNIPLUS é um sistema de gestão completo, rápido, prático e sem complicações. Com o UNIPLUS a empresa evolui de maneira saudável e bem estruturada, contando com módulos adicionais focados em seu segmento.</p>
+			<p class="text-center ">O UNIPLUS é um sistema de gestão completo, rápido, prático e sem complicações. Com o UNIPLUS a empresa evolui de maneira saudável e bem estruturada, contando com módulos adicionais focados em seu segmento.</p>
 	</div>
 </div>
 <div class="container">

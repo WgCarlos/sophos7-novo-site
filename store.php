@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div>
-					<h1>Uniplus Store</h1>
+					<h1>Lojas de Varejo</h1>
 				</div>
 			</div>
 			<div class="col-sm-6">
@@ -24,13 +24,13 @@
 	</div>
 </div>
 <div class="imgService">
-	<img src="img/itnelidata1.jpg" class="img-fluid">
+	<img src="img/uniplusStore.jpg" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
 		<div class="text-center">
 			<h3 class="font-weight-bold">Solução para Lojas de Varejo em Geral</h3>
-			<p class="text-monospace">Sabendo que quem tem loja no varejo, seja grande ou pequena, precisa se preocupar e cuidar de uma infinidade de detalhes no dia a dia da administração da sua empresa, desenvolvemos o UNIPLUS Store, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em lojas de roupas, calçados, livrarias, papelarias, entre outros tipos de lojas.</p>
+			<p class="">Sabendo que quem tem loja no varejo, seja grande ou pequena, precisa se preocupar e cuidar de uma infinidade de detalhes no dia a dia da administração da sua empresa, desenvolvemos o UNIPLUS Store, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em lojas de roupas, calçados, livrarias, papelarias, entre outros tipos de lojas.</p>
 		</div>
 	</div>
 </div>
@@ -50,43 +50,43 @@
     		<div class="col">
     			<div class="text-center">
       				<img src="img/grade.png">
-      				<p class="text-monospace">Cadastro de Grade</p>
+      				<p class="">Cadastro de Grade</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/fidelidade.png">
-      				<p class="text-monospace">Cartão Fidelidade</p>
+      				<p class="">Cartão Fidelidade</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/uniplusSms.png">
-      				<p class="text-monospace">SMS</p>
+      				<p class="">SMS</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/estoque.png">
-      				<p class="text-monospace">Local de Estoque</p>
+      				<p class="">Local de Estoque</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/os.png">
-      				<p class="text-monospace">Ordem de Serviço</p>
+      				<p class="">Ordem de Serviço</p>
       			</div>
     		</div>
     		<div class="col">
       			<div class="text-center">
       				<img src="img/tabelapreco.png">
-      				<p class="text-monospace">Tabela de Preço</p>
+      				<p class="">Tabela de Preço</p>
       			</div>
     		</div>
   		</div>
 	</div>
 	<div class="headerService1">
-			<p class="text-center text-monospace">O UNIPLUS Service faz você ganhar total controle dos processos da sua empresa de maneira ágil e eficiente. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
+			<p class="text-center ">O UNIPLUS Service faz você ganhar total controle dos processos da sua empresa de maneira ágil e eficiente. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
 	</div>
 </div>
 <div class="container">
