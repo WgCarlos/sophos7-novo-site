@@ -4,7 +4,7 @@
 ?>
 	<!--Slide Show-->
 	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  		<div class="carousel-inner">
+  		<div class="carousel-inner sliderHome">
     		<div class="carousel-item active">
       			<img class="d-block w-100" src="img/slider1.png" alt="First slide">
     		</div>
@@ -22,10 +22,14 @@
   			</a>
 	</div>
 	<div class="container">
-		<div class="servico1">
-			<h1 class="text-center">Nossos Serviços</h1>
-			<p class="text-center">Provedor de soluções tecnológicas para gestão de empresas mercantis e prestadores de serviços. <br> Disponibilizamos sistemas de gestão empresarial que atendem diversos segmentos, ramos e portes de empresas. <br> Analisamos a necessidade logística de cada cliente parceiro e apresentamos a solução <br> adequada à sua situação financeira e perspectiva de gestão.</p>
-		</div>	
+		<div class="row">
+			<div class="offset-sm-2 col-sm-8">
+				<div class="servico1">
+					<h1 class="text-center">Sistema Uniplus</h1>
+					<p class="text-center">Administrar uma empresa não é uma tarefa fácil, são muitos os detalhes com os quais se preocupar. Pensando nisso, apresentamos o UNIPLUS, um sistema completo, prático e sem complicações. Com o UNIPLUS a empresa evolui de maneira saudável e bem estruturada, contando com módulos adicionais que customizam o sistema de acordo com as necessidades de cada segmento proporcionando assim, um melhor custo beneficio colocando em suas mãos o total controle do seu negócio.</p>
+				</div>	
+			</div>
+		</div>
 	</div>
 	<div class="container">
 		<div class="servico2">
@@ -35,8 +39,8 @@
 	      				<a class="btn btn-link" href="market.php"><i class="fa fa-shopping-cart fa-3x hvr-float" aria-hidden="true"></i></a>
 				    </div>
 					<div>
-						<h5 class="text-center">Supermercado e Frigorífico</h5>
-				     	<p>Solução reconhecida pela agilidade na operação e amplitude nas funcionalidades.</p>
+						<h5 class="text-center"><strong>Supermercado e Frigorífico</strong></h5>
+				     	<p class="text-center">Gestão especializada para mercearias, mercados, supermercados, frigoríficos e açougues.</p>
 				     </div>
 	    		</div>
 	    		<div class="col-sm-4">
@@ -44,8 +48,8 @@
 	   					<a class="btn btn-link" href="store.php"><i class="fas fa-shopping-bag fa-3x hvr-float" aria-hidden="true"></i></a>	
 				    </div>
 					<div>
-						<h5 class="text-center">Lojas de Varejo</h5>
-				     	<p>Tranferência eletrônica de fundos é essencial para velocidade nas vendas e redução de filas no caixa.</p>
+						<h5 class="text-center"><strong>Lojas de Varejo</strong></h5>
+				     	<p class="text-center">Facilita a administração em lojas de roupas, calçados, livrarias, papelarias e cosméticos.</p>
 				     </div>
 	    		</div>
 	    		<div class="col-sm-4">
@@ -53,8 +57,8 @@
 		    			<a class="btn btn-link" href="service.php"><i class="fas fa-cogs fa-3x hvr-float" aria-hidden="true"></i></a>
 				    </div>
 					<div>
-						<h5 class="text-center">Prestadores de Serviço</h5>
-				     	<p>Toda linha de Impressoras Térmicas, Leitor de Código de Barras, Balança Computadora e muito mais.</p>
+						<h5 class="text-center"><strong>Prestadores de Serviço</strong></h5>
+				     	<p class="text-center">Gestão completa para assistências, oficinas mecânicas e prestadores de serviço em geral.</p>
 				     </div>
 	    		</div>
 	  		</div>
@@ -64,8 +68,8 @@
 	      				<a class="btn btn-link" href="gourmet.php"><i class="fas fa-utensils fa-3x hvr-float" aria-hidden="true"></i></a>
 				    </div>
 					<div>
-						<h5 class="text-center">Bares e Restaurantes</h5>
-				     	<p>ERP completo para atacado e distribuidora com ótima relação custo-benefício.</p>
+						<h5 class="text-center"><strong>Bares e Restaurantes</strong></h5>
+				     	<p class="text-center">Um atendimento mais ágil e eficiente para empresas no segmento gastronômico.</p>
 				     </div>
 	    		</div>
 	    		<div class="col-sm-4">
@@ -73,8 +77,8 @@
 	      				<a class="btn btn-link" href="uniplus.php"><i class="fas fa-building fa-3x hvr-float" aria-hidden="true"></i></a>			    		
 			    	</div>
 					<div>
-						<h5 class="text-center">Outros Segmentos</h5>
-			     		<p>Negociamos taxas de cartões de crédito nas bandeiras MasterCard e Visa através da operadora Stone.</p>
+						<h5 class="text-center"><strong>Outros Segmentos</strong></h5>
+			     		<p class="text-center">Gestão prática e inteligente para atacados, armazéns, indústrias e distribuidoras.</p>
 			     	</div>
 	    		</div>
 	    		<div class="col-sm-4">
@@ -82,8 +86,8 @@
 	      				<a class="btn btn-link" href="#"><i class="fas fa-sitemap fa-3x hvr-float" aria-hidden="true"></i></a>			    		
 			    	</div>
 					<div>
-						<h5 class="text-center">Módulos Opcionais</h5>
-			     		<p>Desenvolvemos websites em nível institucional e gerenciamos redes sociais corporativas.</p>
+						<h5 class="text-center"><strong>Soluções integradas</strong></h5>
+			     		<p class="text-center">Permite integração com soluções de terceiros, ocasionando a otimização de sua gestão.</p>
 			     	</div>
 	    		</div>
 	  		</div>
@@ -93,21 +97,60 @@
 	<div class="bihome">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12">
+				<div class="offset-sm-3 col-sm-6">
+					<h1><strong>Sistema Seguro e Acessível?</strong></h1>
+				</div>
+			</div>
+			<div class="row">	
+				<div class="col-sm-6">
+					<iframe width="500" height="280" src="https://www.youtube.com/embed/ztUdEt4lHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				<div class="col-sm-6">
 					<div class="dashboard">
-						<h1 class="text-center">Já ouviu falar em DashBoard ou BI?</h1>
-						<p>Nossas soluções de alta performance proporcionam aos gestores o acompanhamento sobre as oscilações das 	variáveis do ambiente corporativo através de gráficos, indicadores econômicos, financeiros e de performance, comparativos periódicos, rankings e outros resultados produzidos por meio de fórmulas personalizadas.</p>
+						<p class="text-justify">O UNIPLUS STARTER EDITION é a solução <br>
+						pensada para facilitar o controle e os processos <br>
+						fiscais de sua empresa possibilitando uma visão <br>
+						completa do seu negócio a partir de R$ 140,00.</p>
 					</div>	
-				<div class="text-center">
-					<div class="btn-area">					
-						<a class="btn btn-primary" href="#" role="button">DashBoard</a>
-					</div>
+					<div class="botaoDashboard">
+						<div class="btn-area text-center">					
+							<a class="btn btn-primary" href="dashboard.php" role="button">Saiba mais</a>
+						</div>
+					</div>	
 				</div>
 			</div>
 		</div>	
 	</div>	
-	<!--CLIENTES-->
 	<div class="container">
+		<div class="clientesDizem">
+			<h2 class="text-center">O que nossos clientes dizem</h2>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-2 offset-sm-2">
+				<img class="rounded-circle" src="img/nildomar.jpeg">
+			</div>
+			<div class="col-sm-6">
+				<p>Somos clientes da Sophos Projetos desde 2011. Estamos satisfeitos com o atendimento do suporte técnico e com todo potencial do Sistema Uniplus. Parabéns a estes parceiros pelas inovações e soluções apresentadas em nossas necessidades no dia a dia.</p>
+				<p><strong>Nildomar – Diretor da empresa O Escadão Material de Contsrução</strong></p>
+			</div>
+		</div>	
+		<div class="clientesComentario">
+			<div class="row">
+				<div class="col-sm-2 offset-sm-2">
+					<img class="rounded-circle" src="img/julia.jpeg">
+				</div>
+				<div class="col-sm-6">
+					<p>Todo o trabalho da SOPHOS para conosco é singular. Sempre atenciosos e pacientes às nossas dúvidas e com muita agilidade e boa vontade na execução de tudo o que a eles é solicitado. Deixo aqui o nosso MUITO OBRIGADO pelo profissionalismo e pelo comprometimento.	</p>
+					<p><strong>Julia Cecília, gerente da Livraria Volmar</strong></p>
+				</div>
+			</div>
+		</div>		
+	</div>
+
+	<!--CLIENTES-->
+	<!--<div class="container">
 		<div class="clienteshome">
 			<div class="row">
 				<div class="col-sm-4">
@@ -180,7 +223,7 @@
 				</div>	
 			</div>
 		</div>
-	</div>
+	</div>-->
 <?php 
 	include "inc/footer.php";
 ?>

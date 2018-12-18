@@ -12,28 +12,19 @@
 				<div class="row">
 					<div class="col-sm-4">
 						<div>
-							<i class="fa fa-phone" aria-hidden="true"></i>
-						</div>
-						<div>
-							<p><strong>Dúvidas? Ligue-nos agora</strong></p>
+							<p><i class="fa fa-phone" aria-hidden="true"></i><strong> Dúvidas? Ligue-nos agora</strong></p>
 							<p><strong>81 3034-6284 <br>81 3031-3291 <br>81 3226-7643</strong></p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div>
-							<i class="fas fa-clock" aria-hidden="true"></i>
-						</div>
-						<div>
-							<p><strong>Estamos abertos de segunda a sexta-feira</strong></p>
+							<p><i class="fas fa-clock" aria-hidden="true"></i><strong> Estamos abertos de segunda a sexta-feira</strong></p>
 							<p><strong>Seg-Sex: 08h ás 18h <br>Sab: 08h ás 12h</strong></p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div>
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</div>
-						<div>
-							<p><strong>Envie-nos um e-mail</strong></p>
+							<p><i class="fa fa-envelope" aria-hidden="true"></i><strong> Envie-nos um e-mail</strong></p>
 							<p><strong>relacionamento@sophosne.com.br</strong></p>
 						</div>
 					</div>

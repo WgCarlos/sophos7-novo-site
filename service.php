@@ -3,7 +3,7 @@
 	include "inc/menu.php";
 ?>
 <div class="tituloPagina">
-	<div class="container">
+	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-6">
 				<div>
@@ -24,7 +24,7 @@
 	</div>
 </div>
 <div class="imgService">
-	<img src="img/uniplusService.jpg" class="img-fluid">
+	<img src="img/uniplusService.jpg">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
