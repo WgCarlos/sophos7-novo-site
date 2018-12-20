@@ -101,22 +101,22 @@
 		  		<ul class="list-group list-group-flush">
 		    	<h5 class="text-center card-title font-weight-bold">Básico</h5>
 			    	<p class="text-center">Até 03 usuários</p>
-			    	<p class="card-text">Funcionalidades</p>
-			    	<li class="list-group-item"><i class="far fa-check-square">	Boleto com Registro</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Cadastros</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Envio de SMS</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Estoque</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Financeiro</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Grade</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Locais de Estoque</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Modelos de Impressão</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Nota Fiscal Eletrônica</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Ponto de Venda</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Produtos</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Relatórios</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> SINTEGRA</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> SPED Fiscal</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Vendas</i></li>
+			    	<p class="card-text"><strong>Funcionalidades</strong></p>
+			    	<li class="list-group-item"><i class="fas fa-check">	Boleto com Registro</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Cadastros</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Envio de SMS</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Estoque</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Financeiro</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Grade</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Locais de Estoque</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Modelos de Impressão</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Nota Fiscal Eletrônica</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Ponto de Venda</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Produtos</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Relatórios</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> SINTEGRA</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
 			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>
 		  	</div>
@@ -129,32 +129,32 @@
 		  		<ul class="list-group list-group-flush">
 		    	<h5 class="text-center card-title font-weight-bold">Avançado</h5>
 			    	<p class="text-center">Até 04 usuários ou +</p>
-			    	<p class="card-text">Funcionalidades</p>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Boleto com Registro</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Cadastros</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Envio de SMS</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Estoque</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Financeiro</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Grade</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Locais de Estoque</i></li>			    	
-			    	<li class="list-group-item"><i class="far fa-check-square"> Modelos de Impressão</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Nota Fiscal Eletrônica</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Ponto de Venda</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Produtos</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Relatórios</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> SINTEGRA</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> SPED Fiscal</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Vendas</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Cartão Fidelidade</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Centro de Custo</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Controle de Lote de Fabricação e Validade</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Dashboard de Gestão</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> DRE</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> EDI - Coletor de Dados</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Expedição</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Inventário de Estoque</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Ordem de Serviço</i></li>
-			    	<li class="list-group-item"><i class="far fa-check-square"> Tabela de Preços</i></li>
+			    	<p class="card-text"><strong>Funcionalidades</strong></p>
+			    	<li class="list-group-item"><i class="fas fa-check"> Boleto com Registro</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Cadastros</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Envio de SMS</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Estoque</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Financeiro</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Grade</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Locais de Estoque</i></li>			    	
+			    	<li class="list-group-item"><i class="fas fa-check"> Modelos de Impressão</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Nota Fiscal Eletrônica</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Ponto de Venda</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Produtos</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Relatórios</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> SINTEGRA</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Cartão Fidelidade</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Centro de Custo</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Controle de Lote de Fabricação e Validade</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Dashboard de Gestão</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> DRE</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> EDI - Coletor de Dados</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Expedição</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Inventário de Estoque</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Ordem de Serviço</i></li>
+			    	<li class="list-group-item"><i class="fas fa-check"> Tabela de Preços</i></li>
 			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>
 		  	</div>

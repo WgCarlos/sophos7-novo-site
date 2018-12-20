@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-sm-12" id="contato">
 					<div>
-						<h1 class="text-center">Entre em contato com a gente</h1>
+						<h2 class="text-center">Entre em contato com a gente</h2>
 					</div>	
 					<hr class="linha">
 				</div>
@@ -19,11 +19,11 @@
 					<div class="col-sm-4">
 						<div>
 							<p><i class="fas fa-clock" aria-hidden="true"></i><strong> Estamos abertos de segunda a sexta-feira</strong></p>
-							<p><strong>Seg-Sex: 08h ás 18h <br>Sab: 08h ás 12h</strong></p>
+							<p><strong>Seg-Sex: 08h às 18h <br>Sab: 08h às 12h</strong></p>
 						</div>
 					</div>
-					<div class="col-sm-4">
-						<div>
+					<div class="offset-sm-1 col-sm-3">
+						<div class="">
 							<p><i class="fa fa-envelope" aria-hidden="true"></i><strong> Envie-nos um e-mail</strong></p>
 							<p><strong>relacionamento@sophosne.com.br</strong></p>
 						</div>

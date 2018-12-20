@@ -21,16 +21,17 @@
     			<span class="sr-only">Next</span>
   			</a>
 	</div>
-	<div class="container">
-		<div class="row">
-			<div class="offset-sm-2 col-sm-8">
-				<div class="servico1">
-					<h1 class="text-center">Sistema Uniplus</h1>
-					<p class="text-center">Administrar uma empresa não é uma tarefa fácil, são muitos os detalhes com os quais se preocupar. Pensando nisso, apresentamos o UNIPLUS, um sistema completo, prático e sem complicações. Com o UNIPLUS a empresa evolui de maneira saudável e bem estruturada, contando com módulos adicionais que customizam o sistema de acordo com as necessidades de cada segmento proporcionando assim, um melhor custo beneficio colocando em suas mãos o total controle do seu negócio.</p>
-				</div>	
+	<div class="servico1Background">
+		<div class="container">
+			<div class="row">
+				<div class="offset-sm-2 col-sm-8">
+					<div class="servico1">
+						<h5 class="text-center">Administrar uma empresa não é uma tarefa fácil, são muitos os detalhes com os quais se preocupar. Pensando nisso, apresentamos o UNIPLUS, um sistema completo e prático que conta com módulos adicionais que customizam o sistema de acordo com as necessidades de cada segmento, proporcionando um melhor custo beneficio por uma gestão completa para seu negócio.</h5>
+					</div>	
+				</div>
 			</div>
 		</div>
-	</div>
+	</div>	
 	<div class="container">
 		<div class="servico2">
 	  		<div class="row">
@@ -98,19 +99,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="offset-sm-3 col-sm-6">
-					<h1><strong>Sistema Seguro e Acessível?</strong></h1>
+					<h1><strong>Uniplus Starter Edition</strong></h1>
 				</div>
 			</div>
 			<div class="row">	
 				<div class="col-sm-6">
 					<iframe width="500" height="280" src="https://www.youtube.com/embed/ztUdEt4lHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
-				<div class="col-sm-6">
+				<div class="col-sm-5">
 					<div class="dashboard">
-						<p class="text-justify">O UNIPLUS STARTER EDITION é a solução <br>
-						pensada para facilitar o controle e os processos <br>
-						fiscais de sua empresa possibilitando uma visão <br>
-						completa do seu negócio a partir de R$ 140,00.</p>
+						<h4 class="text-justify">Pensada para facilitar o controle e os processos 
+						fiscais de sua pequena empresa. Existe uma versão
+						para cada segmento.</h4>
+						<h4 class="precoDashboard text-center"><strong>A partir de R$ 140,00 mensais.</strong></h4>
 					</div>	
 					<div class="botaoDashboard">
 						<div class="btn-area text-center">					
@@ -143,87 +144,11 @@
 				</div>
 				<div class="col-sm-6">
 					<p>Todo o trabalho da SOPHOS para conosco é singular. Sempre atenciosos e pacientes às nossas dúvidas e com muita agilidade e boa vontade na execução de tudo o que a eles é solicitado. Deixo aqui o nosso MUITO OBRIGADO pelo profissionalismo e pelo comprometimento.	</p>
-					<p><strong>Julia Cecília, gerente da Livraria Volmar</strong></p>
+					<p><strong>Julia Cecília – Gerente da livraria Volmar</strong></p>
 				</div>
 			</div>
 		</div>		
 	</div>
-
-	<!--CLIENTES-->
-	<!--<div class="container">
-		<div class="clienteshome">
-			<div class="row">
-				<div class="col-sm-4">
-					<h1>Trabalhamos para os melhores clientes</h1>
-					<p>Mais de 2000 clientes aprovam nossas soluções em Pernambuco. Atendemos lojas de Departamento, Supermercados, Panificadoras, Madereiras, Home Center e entre outros ramos do Varejo.</p>
-					<div class="text-center">
-						<a class="btn btn-primary" href="contato.php" role="button">Entre em contato</a>
-					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="row">
-					  <div class="col-sm-3 padding-10">
-						<div>
-							<a href="#" target="_blank">
-								<img src="img/dlp.png" class="img-clientes hvr-float">
-							</a>
-						</div>
-					  </div>
-					  <div class="col-sm-3 padding-10">
-					  	<div>
-					  		<a href="#" target="_blank">
-					  			<img src="img/curamed.png" class="img-clientes hvr-float">
-					  		</a>
-					  	</div>
-					  </div>
-					  <div class="col-sm-3 padding-10">
-					  	<div>
-					  		<a href="#" target="_blank">
-					  			<img src="img/brn.png" class="img-clientes hvr-float">
-					  		</a>
-					  	</div>
-					  </div>
-					  <div class="col-sm-3 padding-10">
-					  	<div>
-					  		<a href="#" target="_blank">
-					  			<img src="img/natan.png" class="img-clientes hvr-float">
-					  		</a>
-					  	</div>
-					  </div>
-					  <div class="clearfix"></div>
-					  <div class="col-sm-3 padding-10">
-						<div>
-							<a href="#" target="_blank">
-								<img src="img/ciave-1.png" class="img-clientes hvr-float">
-							</a>
-						</div>
-					  </div>
-					  <div class="col-sm-3 padding-10">
-					  	<div>
-					  		<a href="#" target="_blank">
-					  			<img src="img/menthel.png" class="img-clientes hvr-float">
-					  		</a>
-					  	</div>
-					  </div>
-					  <div class="col-sm-3 padding-10">
-						<div>
-							<a href="#" target="_blank">
-								<img src="img/casamia.png" class="img-clientes hvr-float">
-							</a>
-						</div>
-					  </div>
-					  <div class="col-sm-3 padding-10">
-					  	<div>
-					  		<a href="#" target="_blank">
-					  			<img src="img/infoteck.png" class="img-clientes hvr-float">
-					  		</a>
-					  	</div>
-					  </div>
-					</div>
-				</div>	
-			</div>
-		</div>
-	</div>-->
 <?php 
 	include "inc/footer.php";
 ?>
