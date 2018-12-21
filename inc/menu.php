@@ -11,10 +11,10 @@
     		    		<a class="nav-link active" href="index.php">Início <span class="sr-only">(current)</span></a>
     		  		</li>
     		  		<li class="nav-item">
-    		    		<a class="nav-link" href="sobre.php">Sophos7</a>
+    		    		<a class="nav-link" href="sobre.php">Sistema</a>
     		  		</li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Soluções</a>
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Versões</a>
                         <div class="dropdown-menu">
                         <a class="dropdown-item" href="service.php">Prestadores de Serviço</a>
                         <a class="dropdown-item" href="market.php">Supermercados</a>

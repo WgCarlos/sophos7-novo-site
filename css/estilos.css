@@ -2,15 +2,36 @@
 	margin-top: 60px;
 	margin-bottom: 60px;
 }
+.servico1 h4{
+	margin-top: 65px;
+}
+.servico1 img{
+	border-radius: 31px;
+}
+hr.faixa{
+	border:2px solid #1E90FF;
+	border-radius: 3px;
+	width: 260px;
+}
 .servico1Background{
 	background-color: #F7F7F7;
 	margin-bottom: 60px;
+	padding-top: 60px;
+}
+@media only screen and (max-width: 500px) {
+  .servico1 img {
+	height: auto;
+    width: auto;
+	}
 }
 .servico2 h5{
 	margin-top: 10px;
 }
 .servico2 p{
 	margin-top: 18px;
+}
+.servico2 hr{
+	margin-bottom: 65px;
 }
 
 .bihome{
@@ -136,6 +157,7 @@
 }
 .sobreSophos p{
 	padding-bottom: 25px;
+	margin-top: 25px;
 }
 
 .dropdown:hover>.dropdown-menu{
@@ -338,6 +360,14 @@
 .dashboardImagem{
 	margin-top: 40px;
 }
+.sliderHome button{
+	float: left;
+	margin-bottom: 95px;
+	border-radius: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
 @media only screen and (max-width: 500px) {
   .sliderHome img {
 	height: 200px;
@@ -359,5 +389,10 @@
   	margin-left: 35%;
  	margin-bottom: 20px;
 	}
+}
+.servico3{
+	padding-top: 60px;
+	background-color: #F7F7F7;
+	padding-bottom: 80px;
 }
 

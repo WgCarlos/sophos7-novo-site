@@ -12,6 +12,6 @@
 	<!--Hover Css-->
 	<link href="css/hover.css" rel="stylesheet" media="all">
 	
-	<title>Sophos7 Gestão Inteligente</title>
+	<title>ERP Uniplus</title>
 </head>
 <body>
