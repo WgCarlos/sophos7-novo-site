@@ -23,14 +23,16 @@
 		</div>
 	</div>
 </div>
-<div class="imgService">
-	<img src="img/uniplusGourmet.jpg" class="img-fluid">
+<div class="imgService text-center">
+	<img src="img/Gourmet Vertical.png" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
-		<div class="text-center">
-			<h3 class="font-weight-bold">Solução para Bares e Restaurantes</h3>
-			<p class="">Sabendo que trabalhar com empresas no segmento gastronômico é um desafio diário diferente de qualquer outro trabalho, exigindo um nível alto de organização e atenção aos mínimos detalhes, desenvolvemos o UNIPLUS Gourmet, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em bares, restaurantes, lanchonetes e demais estabelecimentos.</p>
+		<div class="row">
+			<div class="offset-sm-2 col-sm-8">
+				<h3 class="font-weight-bold text-center">Solução para Bares e Restaurantes</h3>
+				<p class="text-center">Sabendo que trabalhar com empresas no segmento gastronômico é um desafio diário diferente de qualquer outro trabalho, exigindo um nível alto de organização e atenção aos mínimos detalhes, desenvolvemos o UNIPLUS Gourmet, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em bares, restaurantes, lanchonetes e demais estabelecimentos.</p>
+			</div>	
 		</div>
 	</div>
 </div>
@@ -86,7 +88,11 @@
   		</div>
 	</div>
 	<div class="headerService1">
-			<p class="text-center ">O UNIPLUS Gourmet faz com que as operações do seu negócio sejam automatizadas, assim o controle interno é aperfeiçoado e o atendimento ao cliente se torna mais ágil. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis. </p>
+		<div class="row">
+			<div class="offset-sm-3 col-sm-6">
+				<p class="text-center">O UNIPLUS Gourmet faz com que as operações do seu negócio sejam automatizadas, assim o controle interno é aperfeiçoado e o atendimento ao cliente se torna mais ágil. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis. </p>
+			</div>
+		</div>	
 	</div>
 </div>
 <div class="container">

@@ -1,5 +1,5 @@
 	
-    <div class="">
+    <div class="container">
 		<nav class="navbar navbar-expand-lg navbar-light style="background-color: #FFFFFF;">
   			<a class="navbar-brand" href="index.php"><img src="img/bussiness.png" width="190" height="55" alt=""></a>
   			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,7 +21,7 @@
                         <a class="dropdown-item" href="store.php">Lojas de Varejo</a>
                         <a class="dropdown-item" href="gourmet.php">Bares e Restaurantes</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="uniplus.php">Outros Segmentos</a>
+                        <a class="dropdown-item" href="uniplus.php">Versão Completa</a>
                         </div>
                     </li>
     		  		<li class="nav-item">

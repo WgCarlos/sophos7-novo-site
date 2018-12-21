@@ -134,16 +134,17 @@
 .sobreSophos{
 	margin-top: 70px;
 }
-.visaoPagina{
-	background-color: #C0C0C0;
+.sobreSophos p{
+	padding-bottom: 25px;
 }
+
 .dropdown:hover>.dropdown-menu{
 	display: block;
 }
 .imgService{
-	background-image: url(../img/home.png);
-	width: 1287px;
-	height: 435px;
+	background-image: url(../img/paginasBack.jpg);
+	width: auto;
+	height: auto;
 	background-repeat: no-repeat;
 }
 @media only screen and (max-width: 500px) {
@@ -187,8 +188,9 @@
 @media only screen and (max-width: 500px) {
   .imgService1 iframe {
 	margin-top: 60px;
-	height: 210px;
-    width: 375px;
+	margin-left: 18px;
+	height: 150px;
+    width: 330px;
 	}
 }
 .serviceSolucao1{
@@ -227,8 +229,8 @@
 @media only screen and (max-width: 500px) {
   .imgMarket iframe {
 	margin-top: 60px;
-	height: 210px;
-    width: 375px;
+	height: 150px;
+    width: 330px;
 	}
 }
 
@@ -251,9 +253,9 @@
 }
 @media only screen and (max-width: 500px) {
   .imgVarejo iframe {
-	margin-top: 60px;
-	height: 210px;
-    width: 375px;
+	margin-top: 80px;
+	height: 150px;
+    width: 330px;
 	}
 }
 .imgGourmet{
@@ -261,6 +263,7 @@
 	width: 1287px;
 	height: 450px;
 	margin-top: 65px;
+	background-repeat: no-repeat;
 }
 @media only screen and (max-width: 500px) {
   .imgGourmet {
@@ -275,9 +278,9 @@
 }
 @media only screen and (max-width: 500px) {
   .imgGourmet iframe {
-	margin-top: 60px;
-	height: 210px;
-    width: 375px;
+	margin-top: 85px;
+	height: 150px;
+    width: 330px;
 	}
 }
 .imgUniplus{
@@ -299,9 +302,9 @@
 }
 @media only screen and (max-width: 500px) {
   .imgUniplus iframe {
-	margin-top: 60px;
-	height: 210px;
-    width: 375px;
+	margin-top: 85px;
+	height: 150px;
+    width: 330px;
 	}
 }
 .contato{
@@ -338,12 +341,23 @@
 @media only screen and (max-width: 500px) {
   .sliderHome img {
 	height: 200px;
-    width: 260px;
+    width: 430px;
 	}
+}
+.card a {
+	margin-top: 35px;
 }
 @media only screen and (max-width: 500px) {
   .card {
-  	margin-left: 45px;
+  	margin: auto;
+  	margin-bottom: 15px;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+  .rounded-circle {
+  	margin-left: 35%;
+ 	margin-bottom: 20px;
 	}
 }
 

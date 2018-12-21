@@ -23,14 +23,16 @@
 		</div>
 	</div>
 </div>
-<div class="imgService">
-	<img src="img/uniplusStore.jpg" class="img-fluid">
+<div class="imgService text-center">
+	<img src="img/StoreSE.png" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
-		<div class="text-center">
-			<h3 class="font-weight-bold">Solução para Lojas de Varejo em Geral</h3>
-			<p class="">Sabendo que quem tem loja no varejo, seja grande ou pequena, precisa se preocupar e cuidar de uma infinidade de detalhes no dia a dia da administração da sua empresa, desenvolvemos o UNIPLUS Store, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em lojas de roupas, calçados, livrarias, papelarias, entre outros tipos de lojas.</p>
+		<div class="row">
+			<div class="offset-sm-2 col-sm-8">
+				<h3 class="font-weight-bold text-center">Solução para Lojas de Varejo em Geral</h3>
+				<p class="text-center">Sabendo que quem tem loja no varejo, seja grande ou pequena, precisa se preocupar e cuidar de uma infinidade de detalhes no dia a dia da administração da sua empresa, desenvolvemos o UNIPLUS Store, um sistema de gestão completo para facilitar e melhorar o serviço de atendimento em lojas de roupas, calçados, livrarias, papelarias, entre outros tipos de lojas.</p>
+			</div>	
 		</div>
 	</div>
 </div>
@@ -86,7 +88,11 @@
   		</div>
 	</div>
 	<div class="headerService1">
-			<p class="text-center ">O UNIPLUS Service faz você ganhar total controle dos processos da sua empresa de maneira ágil e eficiente. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
+		<div class="row">
+			<div class="offset-sm-3 col-sm-6">
+				<p class="text-center ">O UNIPLUS Service faz você ganhar total controle dos processos da sua empresa de maneira ágil e eficiente. A empresa ganha mais produtividade e o cliente um melhor atendimento, tornando seu negócio mais rentável. Confira aqui as versões disponíveis.</p>
+			</div>
+		</div>
 	</div>
 </div>
 <div class="container">
