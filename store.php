@@ -24,7 +24,7 @@
 	</div>
 </div>
 <div class="imgService text-center">
-	<img src="img/StoreSE.png" class="img-fluid">
+	<img src="img/Store Horizontal Uniplus.png" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">

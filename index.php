@@ -6,10 +6,10 @@
 	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   		<div class="carousel-inner sliderHome">
     		<div class="carousel-item active">
-      			<img class="d-block w-100" src="img/slider1.png" alt="First slide">
+      			<img class="d-block w-100" src="img/job3.png" alt="First slide">
     		</div>
     		<div class="carousel-item">
-      			<img class="d-block w-100" src="img/slider2.png" alt="Second slide">
+      			<img class="d-block w-100" src="img/job1.png" alt="Second slide">
     		</div>
   		</div>
   			<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
