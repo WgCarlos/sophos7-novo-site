@@ -40,7 +40,7 @@
 					</div>	
 				</div>
 				<div class="col-sm-6">
-					<div class="servico1 text-center">
+					<div class="servico1">
 						<img src="img/job2-2.png">
 					</div>	
 				</div>
@@ -73,12 +73,12 @@
             	</div>
             	<div class="col-md-2 col-6 text-center text-md-left pb-5">
                 	<div class="card mb-3" style="max-width: 18rem;">
-                		<img class="card-img-top" src="img/cotacaoWeb.png" alt="Card image cap">
+                		<img class="card-img-top" src="img/COTAÇÃO-WEB.png" alt="Card image cap">
 					</div>
             	</div>
             	<div class="col-md-2 col-6 text-center text-md-left pb-5">
                 	<div class="card mb-3" style="max-width: 18rem;">
-                		<img class="card-img-top" src="img/conciliadorDeCartoes.png" alt="Card image cap">
+                		<img class="card-img-top" src="img/CONCILIADOR-DE-CARTÕES.png" alt="Card image cap">
 					</div>
             	</div>
             	<div class="col-md-2 col-6 text-center text-md-left pb-5">
@@ -184,22 +184,22 @@
 	  		</div>
 	  		<div class="row">
 	  			<div class="col-sm-3">
-	  				<div class="text-center">
+	  				<div>
 	  					<img src="img/1 - GOURMET.png">
 	  				</div>
 	  			</div>
 	  			<div class="col-sm-3">
-	  				<div class="text-center">
+	  				<div>
 	  					<img src="img/2 - SERVICE.png">
 	  				</div>
 	  			</div>
 	  			<div class="col-sm-3">
-	  				<div class="text-center">
+	  				<div>
 	  					<img src="img/3 - MARKET.png">
 	  				</div>
 	  			</div>
 	  			<div class="col-sm-3">
-	  				<div class="text-center">
+	  				<div>
 	  					<img src="img/4 - STORE.png">
 	  				</div>
 	  			</div>

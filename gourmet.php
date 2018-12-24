@@ -24,7 +24,7 @@
 	</div>
 </div>
 <div class="imgService text-center">
-	<img src="img/Gourmet Vertical.png" class="img-fluid">
+	<img src="img/GourmetVertical.png" class="img-fluid">
 </div>
 <div class="container">
 	<div class="serviceSolucao">
