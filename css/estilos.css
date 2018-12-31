@@ -19,6 +19,11 @@ hr.faixa{
 	padding-top: 60px;
 }
 @media only screen and (max-width: 500px) {
+  .servico1Background h2 {
+	margin-top: 25px;
+	}
+}
+@media only screen and (max-width: 500px) {
   .servico1 img {
 	height: 300px;
     width: auto;
@@ -32,6 +37,9 @@ hr.faixa{
 }
 .servico2 hr{
 	margin-bottom: 65px;
+}
+.servico2 {
+	margin-top: 80px;
 }
 
 .bihome{
@@ -332,13 +340,19 @@ hr.faixa{
 .contato{
 	margin-top: 80px;
 }
-.contatoCard{
-	margin-left: 150px;
-	margin-top: 60px;
+.contato button{
+	width: 250px;
+	margin-left: 25%;
+	margin-bottom: 35px;
 }
-.mapa{
-	margin-top: 25px;
-	text-align: center;
+.contatoCard {
+	padding-bottom: 15px;
+}
+.contatoCard p{
+	padding-top: 15px;
+}
+.mapa iframe{
+	margin-top: 60px;
 }
 .btnDisney{
 	color: #FFF;
@@ -360,7 +374,7 @@ hr.faixa{
 .dashboardImagem{
 	margin-top: 40px;
 }
-.sliderHome button{
+.sliderHome a{
 	float: left;
 	margin-bottom: 95px;
 	border-radius: 15px;
@@ -393,5 +407,86 @@ hr.faixa{
 .servico3{
 	padding-top: 60px;
 	background-color: #F7F7F7;
-	padding-bottom: 80px;
+	/*padding-bottom: 20px;*/
+}
+.contato label{
+	padding-top: 20px; 
+}
+.solucoes h2{
+	padding-top: 40px;
+}
+.bandeirasTef{
+	padding-top: 55px;
+}
+.vantagemTef{
+	padding-top: 55px;
+}
+.botaoTef{
+	padding-top: 55px;
+}
+.serviceSolucaoTef{
+	margin-top: 75px;
+}
+.serviceSolucaoTef h3{
+	margin-top: 55px;
+	margin-bottom: 55px;
+}
+.imgTef{
+	background-image: url(../img/tef/Technology-wallpaper4.jpg);
+	width: 1287px;
+	height: 450px;
+	margin-top: 65px;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+}
+@media only screen and (max-width: 500px) {
+	.imgTef {
+		width: auto;
+		height: 750px;
+	}
+}
+
+.imgTef h4{
+	margin-top: 80px;
+}
+.imgTef h2{
+	margin-top: 25px;
+}
+.imgTef iframe{
+	margin-top: 25px;
+	width: 560px;
+	height: 315px;
+}
+@media only screen and (max-width: 500px) {
+	.imgTef iframe {
+		margin-top: 30px;
+		height: 150px;
+    	width: 330px;
+	}
+}
+@media only screen and (max-width: 500px) {
+	.imgTef h4 {
+		margin-top: 10px;
+	}
+}
+.imgServiceTef{
+	background-image: url(../img/paginasBack.jpg);
+	width: 1287px;
+	height: 450px;
+	background-repeat: no-repeat;
+}
+.imgServiceTefImg{
+	height: 280px;
+	width: 360px;
+}
+.imgServiceTefImg img{
+	margin-top: 100px;
+	margin-left: 500px;
+}
+@media only screen and (max-width: 500px) {
+  .imgServiceTefImg img {
+	height: 150px;
+	width: 250px;
+	margin-left: 65px;
+	}
 }

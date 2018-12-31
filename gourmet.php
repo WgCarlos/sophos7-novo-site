@@ -10,16 +10,6 @@
 					<h1>Bares e Restaurantes</h1>
 				</div>
 			</div>
-			<div class="col-sm-6">
-				<ul>
-					<li>
-						Uniplus Gourmet
-					</li>
-					<li class="active">
-						<a href="index.php">Início</a>
-					</li>
-				</ul>
-			</div>
 		</div>
 	</div>
 </div>
@@ -129,7 +119,7 @@
 			    	<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Venda Balcão</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
-			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
+			    	<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>
 		  	</div>
 			</div>
@@ -172,7 +162,7 @@
 			    	<li class="list-group-item"><i class="fas fa-check"> Fila de Produção para Cozinha</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Tabela de Preço</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> UNIMOBILE Comanda Eletrônica</i></li>
-			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
+			    	<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>
 		  	</div>
 			</div>

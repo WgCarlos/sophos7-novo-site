@@ -8,13 +8,13 @@
     		<div class="carousel-item active">
       			<img class="d-block w-100" src="img/job3.png" alt="First slide">
       			<div class="carousel-caption d-none d-md-block">
-    				<button type="button" class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</button>
+    				<a type="button" href="uniplus.php"  class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</a>
   				</div>
     		</div>
     		<div class="carousel-item">
       			<img class="d-block w-100" src="img/job1.png" alt="Second slide">
       			<div class="carousel-caption d-none d-md-block">
-    				<button type="button" class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</button>
+    				<a type="button" href="uniplus.php" class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</a>
   				</div>
     		</div>
   		</div>
@@ -47,6 +47,33 @@
 			</div>
 		</div>
 	</div>	
+<div class="bihome">
+		<div class="container">
+			<div class="row">
+				<div class="offset-sm-3 col-sm-6">
+					<h1><strong>Uniplus Starter Edition</strong></h1>
+				</div>
+			</div>
+			<div class="row">	
+				<div class="col-sm-6">
+					<iframe width="500" height="280" src="https://www.youtube.com/embed/ztUdEt4lHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				<div class="col-sm-5">
+					<div class="dashboard">
+						<h4 class="text-justify">Pensada para facilitar o controle e os processos 
+						fiscais de sua pequena empresa. Existe uma versão
+						para cada segmento.</h4>
+						<h4 class="precoDashboard text-center"><strong>A partir de R$ 140,00 mensais.</strong></h4>
+					</div>	
+					<div class="botaoDashboard">
+						<div class="btn-area text-center">					
+							<a class="btn btn-primary" href="uniplus.php" role="button">Saiba mais</a>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>	
+	</div>
 	<div class="container">
 		<div class="servico2">
 	  		<div class="row">
@@ -89,34 +116,31 @@
 	  		</div>
 		</div>
 	</div>	
-	<!--Home BI-->
-	<div class="bihome">
-		<div class="container">
-			<div class="row">
-				<div class="offset-sm-3 col-sm-6">
-					<h1><strong>Uniplus Starter Edition</strong></h1>
+	<!--Home BI-->	
+<div class="imgTef">
+	<div class="container">
+		<div class="row">
+			<div class="offset-sm-2 col-sm-9">
+				<h2><strong>TEF IP, a melhor solução em meios de pagamentos</strong></h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe src="https://www.youtube.com/embed/LpSb-UxtV70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
-			<div class="row">	
-				<div class="col-sm-6">
-					<iframe width="500" height="280" src="https://www.youtube.com/embed/ztUdEt4lHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-				<div class="col-sm-5">
-					<div class="dashboard">
-						<h4 class="text-justify">Pensada para facilitar o controle e os processos 
-						fiscais de sua pequena empresa. Existe uma versão
-						para cada segmento.</h4>
-						<h4 class="precoDashboard text-center"><strong>A partir de R$ 140,00 mensais.</strong></h4>
-					</div>	
-					<div class="botaoDashboard">
-						<div class="btn-area text-center">					
-							<a class="btn btn-primary" href="uniplus.php" role="button">Saiba mais</a>
-						</div>
-					</div>	
+			<div class="col-sm-6">
+				<h4 class="text-justify">Contando com mais de 200 bandeiras de cartões para ampliar suas vendas, o TEF IP reduz custos desnecessários colocando seu negócio em dia com a legislação fiscal.</h4>
+				<div class="botaoDashboard">
+					<div class="btn-area text-center">					
+						<a class="btn btn-primary" href="tef.php" role="button">Saiba mais</a>
+					</div>
 				</div>
 			</div>
-		</div>	
-	</div>	
+		</div>
+	</div>
+</div>
 	<div class="servico3">
 		<div class="container">
 	  		<div class="row">
@@ -178,6 +202,9 @@
 	    		</div>
 	  		</div>
 	  		<div>
+	  			<div class="solucoes">
+	  				<h2 class="text-center text-uppercase"><strong>Soluções desenvolvidas de acordo com  necessidade de cada segmento.</strong></h2>
+	  			</div>
 	  			<br>
 	  			<hr class="faixa" align="center">
 	  			<br><br>
@@ -220,7 +247,7 @@
 			</div>
 			<div class="col-sm-6">
 				<p>Somos clientes da Sophos Projetos desde 2011. Estamos satisfeitos com o atendimento do suporte técnico e com todo potencial do Sistema Uniplus. Parabéns a estes parceiros pelas inovações e soluções apresentadas em nossas necessidades no dia a dia.</p>
-				<p><strong>Nildomar – Diretor da empresa O Escadão Material de Contsrução</strong></p>
+				<p><strong>Nildomar – O Escadão Material de Contsrução</strong></p>
 			</div>
 		</div>	
 		<div class="clientesComentario">
@@ -230,7 +257,7 @@
 				</div>
 				<div class="col-sm-6">
 					<p>Todo o trabalho da SOPHOS para conosco é singular. Sempre atenciosos e pacientes às nossas dúvidas e com muita agilidade e boa vontade na execução de tudo o que a eles é solicitado. Deixo aqui o nosso MUITO OBRIGADO pelo profissionalismo e pelo comprometimento.	</p>
-					<p><strong>Julia Cecília – Gerente da livraria Volmar</strong></p>
+					<p><strong>Julia Cecília – livraria Volmar</strong></p>
 				</div>
 			</div>
 		</div>		

@@ -10,16 +10,6 @@
 					<h1>Supermercados</h1>
 				</div>
 			</div>
-			<div class="col-sm-6">
-				<ul>
-					<li>
-						Uniplus Market
-					</li>
-					<li class="active">
-						<a href="index.php">Início</a>
-					</li>
-				</ul>
-			</div>
 		</div>
 	</div>
 </div>
@@ -116,7 +106,7 @@
 			    	<li class="list-group-item"><i class="fas fa-check"> SINTEGRA</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
-			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
+			    	<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>
 		  	</div>
 			</div>
@@ -155,7 +145,7 @@
 			    	<li class="list-group-item"><i class="fas fa-check"> Família de Produtos</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Ficha de Produção</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Ordem de Serviço</i></li>
-			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
+			    	<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>
 		  	</div>
 			</div>
@@ -203,7 +193,7 @@
 			    	<li class="list-group-item"><i class="fas fa-check"> Promoção por Combinação</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Promoção por Quota</i></li>
 			    	<li class="list-group-item"><i class="fas fa-check"> Recebimento de Mercadoria</i></li>
-			    	<a href="#" class="btn btn-primary">Tenho Interesse</a>
+			    	<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
 		    	</ul>
 		  	</div>
 			</div>
