@@ -1,44 +1,69 @@
 <?php 
-	include "inc/header.php";
-	include "inc/menu.php";
+  include "inc/header.php";
 ?>
-<div class="container">
-	<div class="row">
-		<div class="col-md-5 pb-5 pb-md-0 d-flex align-items-center text-center text-md-left">
-	    <h2 class="text-uppercase font-weight-bold text-center text-md-left w-100">
-	        Junte-se aos <br>
-	        <div class="pl-md-5 ml-md-5">mais de 30 mil</div>
-	        <span class="pl-md-3">clientes TOTVS.</span>
-	    </h2>
-	</div>
-	<div class="col-md-7 pl-md-5 component-partners-divider">
-	    <i class="fa fa-chevron-right"></i>
-	        <div class="row pt-5 align-items-center justify-content-center">
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/ciave-1.png" style="height: 130px; width: 210px;" alt="ciave">
-	            </div>
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/brn.png" style="height: 130px; width: 210px;" alt="burger-king">
-	            </div>
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/dlp.png" style="height: 130px; width: 210px;" alt="dlp">
-	            </div>
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/natan.png" style="height: 130px; width: 210px;" alt="estrella-galicia">
-	            </div>
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/casamia.png" style="height: 130px; width: 210px; alt="etna">
-	            </div>
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/curamed.png" style="height: 130px; width: 210px;" alt="fini">
-	            </div>
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/infoteck.png" style="height: 130px; width: 210px;" alt="parati">
-	            </div>
-				<div class="col-md-3 col-6 mb-5 text-center">
-	                <img src="img/menthel.png" style="height: 130px; width: 210px;" alt="subway">
-	            </div>
-	        </div>
-	</div>
-	</div>
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #FFFFFF">
+  <div class="container">
+    <a class="navbar-brand" href="index.php"><img src="img/teste/Logo-Uniplus1.png" width="200" height="65" alt=""></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
+      <ul class="nav nav-pills">
+        <li class="nav-item">
+          <a class="nav-link active " href="index.php">Início <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="sobre.php">Sistema</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Uniplus</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="uniplus.php">Versão Completa</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="market.php">Supermercados</a>
+              <a class="dropdown-item" href="store.php">Lojas de Varejo</a>
+              <a class="dropdown-item" href="gourmet.php">Bares e Restaurantes</a>
+              <a class="dropdown-item" href="service.php">Prestadores de Serviço</a>
+            </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Integrações</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="tef.php">TEF</a>
+              <div class="dropdown-divider"></div>
+            </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contato.php">Contato</a>
+        </li>
+      </ul>
+    </div>  
+  </div>  
+</nav>
+<!--Slide Show-->
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner sliderHome">
+      <div class="carousel-item active">
+          <img class="d-block w-100" src="img/job3.png" alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+          <a type="button" href="uniplus.php"  class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</a>
+        </div>
+      </div>
+      <div class="carousel-item">
+          <img class="d-block w-100" src="img/job1.png" alt="Second slide">
+          <div class="carousel-caption d-none d-md-block">
+          <a type="button" href="uniplus.php" class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</a>
+        </div>
+      </div>
+    </div>
+    <div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
 </div>

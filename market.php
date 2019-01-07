@@ -114,88 +114,88 @@
 		<div class="col-sm-4">
 			<div class="card" style="width: 20rem;">
 		  		<img class="card-img-top" src="img/market.png" alt="Card image cap">
-		  	<div class="card-body">
-		  		<ul class="list-group list-group-flush">
-		    	<h5 class="text-center card-title font-weight-bold">Avançado</h5>
-			    	<p class="text-center">04 usuários ou +</p>
-			    	<p class="card-text"><strong>Funcionalidades</strong></p>
-			    	<li class="list-group-item"><i class="fas fa-check">	Cadastros</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Envio de SMS</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Estoque</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Financeiro</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Grade</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Hortifruti</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Modelos de Impressão</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Nota Fiscal Eletrônica</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Ponto de Venda</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Produtos</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Reclassificação</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Relatórios</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> SINTEGRA</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Atacarejo</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Boleto com Registro</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Cartão Fidelidade</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Controle de Lote de Fabricação e Validade</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Cotação de Compras</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Dashboard de Gestão</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> DRE</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> EDI - Coletor de dados</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Família de Produtos</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Ficha de Produção</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Ordem de Serviço</i></li>
-			    	<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
-		    	</ul>
-		  	</div>
+		  		<div class="card-body">
+		  			<ul class="list-group list-group-flush">
+		    			<h5 class="text-center card-title font-weight-bold">Avançado</h5>
+			    		<p class="text-center">04 usuários ou +</p>
+			    		<p class="card-text"><strong>Funcionalidades</strong></p>
+			    		<li class="list-group-item"><i class="fas fa-check">	Cadastros</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Envio de SMS</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Estoque</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Financeiro</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Grade</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Hortifruti</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Modelos de Impressão</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Nota Fiscal Eletrônica</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Ponto de Venda</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Produtos</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Reclassificação</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Relatórios</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> SINTEGRA</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Atacarejo</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Boleto com Registro</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Cartão Fidelidade</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Controle de Lote de Fabricação e Validade</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Cotação de Compras</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Dashboard de Gestão</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> DRE</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> EDI - Coletor de dados</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Família de Produtos</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Ficha de Produção</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Ordem de Serviço</i></li>
+			    		<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
+		    		</ul>
+		  		</div>
 			</div>
 		</div>
-				<div class="col-sm-4">
+		<div class="col-sm-4">
 			<div class="card" style="width: 20rem;">
 		  		<img class="card-img-top" src="img/market.png" alt="Card image cap">
-		  	<div class="card-body">
-		  		<ul class="list-group list-group-flush">
-		    	<h5 class="text-center card-title font-weight-bold">SuperMarket</h5>
-			    	<p class="text-center">Apartir de 05 Usuários</p>
-			    	<p class="card-text"><strong>Funcionalidades</strong></p>
-			    				    	<li class="list-group-item"><i class="fas fa-check">	Cadastros</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Envio de SMS</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Estoque</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Financeiro</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Grade</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Hortifruti</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Modelos de Impressão</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Nota Fiscal Eletrônica</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Ponto de Venda</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Produtos</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Reclassificação</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Relatórios</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> SINTEGRA</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Atacarejo</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Boleto com Registro</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Cartão Fidelidade</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Controle de Lote de Fabricação e Validade</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Cotação de Compras</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Dashboard de Gestão</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> DRE</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> EDI - Coletor de dados</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Família de Produtos</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Ficha de Produção</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Ordem de Serviço</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Programação de Alteração de Preço</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Tabela de Preços</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Centro de Custos</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Expedição</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Inventário de Estoque</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Limite por Forma de Pagamento</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Promoção por Combinação</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Promoção por Quota</i></li>
-			    	<li class="list-group-item"><i class="fas fa-check"> Recebimento de Mercadoria</i></li>
-			    	<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
-		    	</ul>
-		  	</div>
+		  		<div class="card-body">
+		  			<ul class="list-group list-group-flush">
+		    			<h5 class="text-center card-title font-weight-bold">SuperMarket</h5>
+			    		<p class="text-center">Apartir de 05 Usuários</p>
+			    		<p class="card-text"><strong>Funcionalidades</strong></p>
+			    		<li class="list-group-item"><i class="fas fa-check">	Cadastros</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Envio de SMS</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Estoque</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Financeiro</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Grade</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Hortifruti</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Modelos de Impressão</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Nota Fiscal Eletrônica</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Ponto de Venda</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Produtos</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Reclassificação</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Relatórios</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> SINTEGRA</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> SPED Fiscal</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Vendas</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Atacarejo</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Boleto com Registro</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Cartão Fidelidade</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Controle de Lote de Fabricação e Validade</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Cotação de Compras</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Dashboard de Gestão</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> DRE</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> EDI - Coletor de dados</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Família de Produtos</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Ficha de Produção</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Ordem de Serviço</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Programação de Alteração de Preço</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Tabela de Preços</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Centro de Custos</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Expedição</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Inventário de Estoque</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Limite por Forma de Pagamento</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Promoção por Combinação</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Promoção por Quota</i></li>
+			    		<li class="list-group-item"><i class="fas fa-check"> Recebimento de Mercadoria</i></li>
+			    		<a href="contato.php" class="btn btn-primary">Tenho Interesse</a>
+		    		</ul>
+		  		</div>
 			</div>
 		</div>		
 	</div>

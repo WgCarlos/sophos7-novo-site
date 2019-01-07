@@ -1,12 +1,26 @@
 .servico1{
-	margin-top: 60px;
-	margin-bottom: 60px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+@media only screen and (max-width: 500px) {
+  .servico1 {
+	margin-top: 15px;
+	}
 }
 .servico1 h4{
-	margin-top: 65px;
+	margin-top: 35px;
 }
 .servico1 img{
 	border-radius: 31px;
+}
+.servico1 a{
+	margin-top: 45px;
+}
+@media only screen and (max-width: 500px) {
+  .servico1 img {
+	height: 300px;
+    width: 100%;
+	}
 }
 hr.faixa{
 	border:2px solid #1E90FF;
@@ -15,20 +29,13 @@ hr.faixa{
 }
 .servico1Background{
 	background-color: #F7F7F7;
-	margin-bottom: 60px;
-	padding-top: 60px;
 }
 @media only screen and (max-width: 500px) {
   .servico1Background h2 {
 	margin-top: 25px;
 	}
 }
-@media only screen and (max-width: 500px) {
-  .servico1 img {
-	height: 300px;
-    width: auto;
-	}
-}
+
 .servico2 h5{
 	margin-top: 10px;
 }
@@ -44,7 +51,6 @@ hr.faixa{
 
 .bihome{
 	background-image: url(../img/darkBI.jpeg);
-	margin-top: 60px;
 	color: #FFFFFF;
 	height: 465px;
 	opacity: 2.0;
@@ -173,7 +179,7 @@ hr.faixa{
 }
 .imgService{
 	background-image: url(../img/paginasBack.jpg);
-	width: auto;
+	max-width: 100%;
 	height: auto;
 	background-repeat: no-repeat;
 }
@@ -348,7 +354,7 @@ hr.faixa{
 .contatoCard {
 	padding-bottom: 15px;
 }
-.contatoCard p{
+.contatoCard h5{
 	padding-top: 15px;
 }
 .mapa iframe{
@@ -376,7 +382,7 @@ hr.faixa{
 }
 .sliderHome a{
 	float: left;
-	margin-bottom: 95px;
+	margin-bottom: 55px;
 	border-radius: 15px;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -407,7 +413,12 @@ hr.faixa{
 .servico3{
 	padding-top: 60px;
 	background-color: #F7F7F7;
-	/*padding-bottom: 20px;*/
+	padding-bottom: 30px;
+}
+@media only screen and (max-width: 500px) {
+  .servico3 img {
+  		margin-bottom: 20px;
+	}
 }
 .contato label{
 	padding-top: 20px; 
@@ -442,7 +453,7 @@ hr.faixa{
 @media only screen and (max-width: 500px) {
 	.imgTef {
 		width: auto;
-		height: 750px;
+		height: 700px;
 	}
 }
 
@@ -454,8 +465,6 @@ hr.faixa{
 }
 .imgTef iframe{
 	margin-top: 25px;
-	width: 560px;
-	height: 315px;
 }
 @media only screen and (max-width: 500px) {
 	.imgTef iframe {
@@ -489,4 +498,33 @@ hr.faixa{
 	width: 250px;
 	margin-left: 65px;
 	}
+}
+.imgServiceMixImg img{
+	margin-top: 170px;
+	margin-left: 40%;
+	width: 25%;
+}
+.imgMixFiscal{
+	background-image: url(../img/mixfiscal/mixfiscal.jpg);
+	background-size: 100% 100%;
+	width: 1287px;
+	height: 450px;
+	background-repeat: no-repeat;
+	margin-top: 25px;
+}
+.imgMixFiscal h2{
+	margin-top: 25px;
+}
+.imgMixFiscal h4{
+	margin-top: 50px;
+}
+.serviceSolucaoMix p{
+	margin-top: 25px;
+}
+.imgMixFiscal iframe{
+	margin-top: 20px;
+}
+.serviceSolucaoMix1 h3{
+	margin-bottom: 25px;
+	margin-top: 25px;
 }

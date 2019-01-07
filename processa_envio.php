@@ -48,10 +48,6 @@
 	$mensagem->__set('produto', $_POST['produto']);
 	$mensagem->__set('mensagem', $_POST['mensagem']);
 
-	if (!$mensagem->mensagemValida()) {
-		echo "Preencha todos os campos";
-	}
-
 	$mail = new PHPMailer(true);
 		try {
     	//Server settings
@@ -101,18 +97,8 @@
 	      <div class="row">
 	        <div class="col-sm-6">
 	          <div>
-	            <h1>Entre em Contato Conosco</h1>
+	            <h1>Contato</h1>
 	          </div>
-	        </div>
-	        <div class="col-sm-6">
-	          <ul>
-	            <li>
-	              Contato
-	            </li>
-	            <li class="active">
-	              <a href="index.php">Início</a>
-	            </li>
-	          </ul>
 	        </div>
 	      </div>
 	    </div>
@@ -121,18 +107,20 @@
 			<div class="row">
 				<div class="col-md-12">
 					<?php if($mensagem->status['codigo_status'] == 1) { ?>
-						<div class="text-center">
-							<h1 class="display-4 text-success text-align">Sucesso</h1>
-							<p> Email eviado com Sucesso!! <br> em breve nosso comercial entrará em contato com você:)</p>
-							<a href="index.php" class="btn btn-success btn-lg mt-5 text-white">Ok</a>
+						<div class="text-center" style="margin-top: 25px;">
+							<h3 class="text-success text-uppercase"><strong>Sucesso</strong></h3>
+							<div style="margin-top: 25px;">
+							<p> Email eviado com sucesso! <br> Em breve estaremos entrando em contato com você.</p>
+							</div>
+							<a href="index.php" class="btn btn-success btn-lg text-white">Ok</a>
 						</div>
 					<?php } ?>
 					<?php if($mensagem->status['codigo_status'] == 2) { ?>
-						<div class="container">
+
 							<h1 class="display-4 text-danger">Ops!</h1>
 							<p> Ops, Houve um problema contacte um suporte!</p>
-							<a href="index.php" class="btn btn-success btn-lg mt-5 text-white">Ok</a>
-						</div>
+							<a style="margin-bottom: 30px;" href="index.php" class="btn btn-success btn-lg mt-5 text-white">Ok</a>
+
 					<?php } ?>
 				</div>
 			</div>

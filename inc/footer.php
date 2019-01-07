@@ -1,4 +1,3 @@
-		<!--CONTATO-->
 	<div class="contato-footer">
 		<div class="container">
 			<div class="row">

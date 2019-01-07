@@ -37,9 +37,9 @@
 </div>
 <div class="imgTef">
 	<div class="container">
-		<div class="row">
-			<div class="offset-sm-2 col-sm-9">
-				<h2><strong>Tecnologia de ponta na gestão de suas vendas.</strong></h2>
+		<div class="row justify-content-center">
+			<div class="">
+				<h2><strong>TEF UNITEF SCOPE</strong></h2>
 			</div>
 		</div>
 		<div class="row">
