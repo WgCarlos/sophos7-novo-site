@@ -57,6 +57,10 @@
 		<div class="row justify-content-center">
 			<h1><strong>Uniplus Starter Edition</strong></h1>
 		</div>
+			<hr class="faixaBranca">
+		<div>
+			
+		</div>
 		<div class="row">	
 			<div class="col-sm-6">
 				<iframe width="500" height="280" src="https://www.youtube.com/embed/ztUdEt4lHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -125,6 +129,9 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<h2><strong>TEF UNITEF SCOPE</strong></h2>
+		</div>
+		<div>
+			<hr class="faixaBranca">
 		</div>
 		<div class="row">
 			<div class="col-sm-6">

@@ -38,9 +38,7 @@
 <div class="imgTef">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="">
-				<h2><strong>TEF UNITEF SCOPE</strong></h2>
-			</div>
+			<h2><strong>TEF UNITEF SCOPE</strong></h2>
 		</div>
 		<div class="row">
 			<div class="col-sm-6">
