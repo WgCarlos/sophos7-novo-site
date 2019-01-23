@@ -60,11 +60,11 @@
           <div class="card" style="width: 23rem;">
             <div class="card-body">
               <h5 style="color: #007bff"><strong>Horário de Atendimento:</strong></h5>
-              <p class="card-text">Dia de semana: 8:00 - 18:00 <br> Sábado: 08:00 - 12:00</p>
+              <p class="card-text">Segunda à Sexta: 8:00 - 18:00 <br> Sábado: 08:00 - 12:00</p>
               <h5 style="color: #007bff" class="card-title"><strong>Telefones:</strong></h5>
               <p class="card-text">Administrativo: (81) 3226-7643 <br> Comercial: (81) 3034-6284 <br> Suporte: (81) 3031-3291</p>
               <h5 style="color: #007bff" class="card-title"><strong>E-mails:</strong></h5>
-              <p class="card-title">vendas@sophosne.com.br <br> relacionamento@sophos7.com </p>
+              <p class="card-title">comercial@sophos7.com <br> relacionamento@sophos7.com </p>
             </div>
           </div>
         </div>
