@@ -71,6 +71,15 @@
 		</div>
 	</div>
 </div>
+<div class="container">
+	<div class="botaoTef">
+		<div class="row">
+			<div class="offset-sm-5 col-sm-6">
+				<a class="btn btn-primary" align="center" href="contato.php" role="button">Solicite Um Orçamento</a>
+			</div>
+		</div>
+	</div>
+</div>
 <?php 
 	include "inc/footer.php";
 ?>
