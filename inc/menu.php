@@ -1,7 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #FFFFFF">
   <div class="container">
     <a class="navbar-brand" style="margin-top: 2px" href="index.php"><img src="img/Logo-Uniplus1.png" width="190" height="55" alt=""></a>
-    <a class="navbar-brand" style="margin-left: 10px; margin-bottom: 4px;" href="index.php"><img src="img/SophosLogo.PNG" width="190" height="33" alt=""></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
