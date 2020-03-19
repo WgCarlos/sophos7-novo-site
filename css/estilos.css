@@ -385,14 +385,14 @@ hr.faixaBranca{
 .dashboardImagem{
 	margin-top: 40px;
 }
-.sliderHome a{
+/*.sliderHome a{
 	float: left;
 	margin-bottom: 55px;
 	border-radius: 15px;
 	padding-left: 50px;
 	padding-right: 50px;
 
-}
+}*/
 @media only screen and (max-width: 500px) {
   .sliderHome img {
 	height: 200px;

@@ -6,16 +6,21 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   	<div class="carousel-inner sliderHome">
     	<div class="carousel-item active">
-      		<img class="d-block w-100" src="img/job3.png" alt="First slide">
+      		<img class="d-block w-100" src="img/job1.png" alt="First slide">
       		<div class="carousel-caption d-none d-md-block">
-    			<a type="button" href="uniplus.php"  class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</a>
+      			<h2>Estaremos atendendo por whatsapp!!!</h2>
+        		<p>Devido a pandemia do vírus COVID-19, a sophos estará prestando suporte via whatsapp</p>
+        		<p><a type="button" href="https://api.whatsapp.com/send?1=pt_BR&phone=5581997659678" style="margin-left: 20%;" class="btn btn-success"><i class="fab fa-whatsapp"></i> Suporte1</a></p>
+        		<p><a type="button" href="https://api.whatsapp.com/send?1=pt_BR&phone=5581997659678" class="btn btn-success"><i class="fab fa-whatsapp"></i> Suporte2</a></p>
+        		<p><a type="button" href="https://api.whatsapp.com/send?1=pt_BR&phone=5581997659678" class="btn btn-success"><i class="fab fa-whatsapp"></i> Suporte3</a></p>
+        		<p><a type="button" href="https://api.whatsapp.com/send?1=pt_BR&phone=5581997659678" class="btn btn-success"><i class="fab fa-whatsapp"></i> Comercial</a></p>
   			</div>
     	</div>
-    	<div class="carousel-item">
+    	<!--<div class="carousel-item">
       		<img class="d-block w-100" src="img/job1.png" alt="Second slide">
       		<div class="carousel-caption d-none d-md-block">
     			<a type="button" href="uniplus.php" class="btn btn-primary btn-lg text-uppercase">Conheça o ERP Uniplus</a>
-  			</div>
+  			</div>-->
     	</div>
   	</div>
   	<div>
@@ -70,7 +75,7 @@
 					<h4 class="text-justify">Pensado para facilitar o controle e os processos 
 						fiscais de sua pequena empresa. Existe uma versão
 						para cada segmento.</h4>
-					<h4 class="precoDashboard text-center"><strong>A partir de R$ 140,00 mensais.</strong></h4>
+					<h4 class="precoDashboard text-center"><strong>FALAR COM CONSULTOR.</strong></h4>
 				</div>	
 				<div class="botaoDashboard">
 					<div class="btn-area text-center">					
